@@ -772,6 +772,7 @@
     "fly|false"
   ],
   "drzhark.mocreatures.entity.passive.MoCEntityWyvern": [
+    "fireImmunity",
     "fly|false"
   ],
   "erebus.entity.EntityAntlion": [
